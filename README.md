@@ -37,7 +37,9 @@ xor g1(diff,a,b);
 and g2(borrow,~a,b);
 
 endmodule
+
 ![image](https://github.com/navyasaik/HALF_SUBTRACTOR/assets/165140258/d3ecafcd-46f4-4b2d-af87-2ff6edd05be4)
+
 # Result:
 Thus,the verilog program for half subtractor has been simulated and verified successfully.
 
